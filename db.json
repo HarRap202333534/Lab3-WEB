@@ -1,0 +1,276 @@
+{
+  "publications": [
+    {
+      "id": "1",
+      "title": "Publication 1",
+      "author": "John Doe",
+      "datePublication": "2025-02-14",
+      "contenu": "<img src='../logo.png' alt='logo' height='200px' width='100%'><h1 class='h-blog mb-5 mt-4'>Titre</h1><p class='mb-4'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus dicta voluptatum est neque cupiditate. Sequi aperiam ipsa quas architecto facere expedita, necessitatibus laudantium saepe eligendi rem ex eius repudiandae dicta?</p><p class='mb-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. A voluptates velit necessitatibus praesentium, ipsam quae dolorem quod pariatur magnam voluptas quo provident impedit, deleniti veniam, doloremque nobis est error perspiciatis? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum est voluptatibus illum earum laborum cumque, molestiae, amet, eius iure ea possimus? Ratione cumque nam dolorem sequi adipisci magni eaque suscipit?</p><div id='image-caption' class='mt-2 mb-3'><img src='../logo.png' alt='logo' height='150px' width='275px'><h6 class='h-blog'>Titre</h6></div><p class='mb-4'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda dolor animi accusantium nulla quod itaque totam magni! Voluptatibus dolores labore, cupiditate ab dignissimos accusantium necessitatibus praesentium expedita dicta tempora ducimus?</p><p class='mb-5'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo, eaque hic. Blanditiis quis mollitia exercitationem dignissimos. Ex, harum at adipisci dolorum quod incidunt accusantium, perspiciatis ut, velit ducimus natus atque!</p>"
+    },
+    {
+      "id": "2",
+      "title": "Publication 2",
+      "author": "John Doe",
+      "datePublication": "2025-02-14",
+      "contenu": "Contenu de la publication 2"
+    },
+    {
+      "id": "3",
+      "title": "Publication 3",
+      "author": "John Doe",
+      "datePublication": "2025-02-14",
+      "contenu": "Contenu de la publication 3"
+    },
+    {
+      "id": "4",
+      "title": "Publication 4",
+      "author": "John Doe",
+      "datePublication": "2025-02-14",
+      "contenu": "Contenu de la publication 4"
+    },
+    {
+      "id": "5",
+      "title": "Publication 5",
+      "author": "John Doe",
+      "datePublication": "2025-02-14",
+      "contenu": "Contenu de la publication 5"
+    },
+    {
+      "id": "6",
+      "title": "Publication 6",
+      "author": "John Doe",
+      "datePublication": "2025-02-14",
+      "contenu": "Contenu de la publication 6"
+    },
+    {
+      "id": "7",
+      "title": "Publication 7",
+      "author": "John Doe",
+      "datePublication": "2025-02-14",
+      "contenu": "Contenu de la publication 7"
+    },
+    {
+      "id": "8",
+      "title": "Test",
+      "author": "Flabustibule",
+      "datePublication": "2025-1-2",
+      "contenu": "<img src='../logo.png' alt='logo' height='200px' width='100%'><h1 class='h-blog mb-5 mt-4'>Titre</h1><p class='mb-4'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus dicta voluptatum est neque cupiditate. Sequi aperiam ipsa quas architecto facere expedita, necessitatibus laudantium saepe eligendi rem ex eius repudiandae dicta?</p><p class='mb-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. A voluptates velit necessitatibus praesentium, ipsam quae dolorem quod pariatur magnam voluptas quo provident impedit, deleniti veniam, doloremque nobis est error perspiciatis? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum est voluptatibus illum earum laborum cumque, molestiae, amet, eius iure ea possimus? Ratione cumque nam dolorem sequi adipisci magni eaque suscipit?</p><div id='image-caption' class='mt-2 mb-3'><img src='../logo.png' alt='logo' height='150px' width='275px'><h6 class='h-blog'>Titre</h6></div><p class='mb-4'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda dolor animi accusantium nulla quod itaque totam magni! Voluptatibus dolores labore, cupiditate ab dignissimos accusantium necessitatibus praesentium expedita dicta tempora ducimus?</p><p class='mb-5'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo, eaque hic. Blanditiis quis mollitia exercitationem dignissimos. Ex, harum at adipisci dolorum quod incidunt accusantium, perspiciatis ut, velit ducimus natus atque!</p>"
+    },
+    {
+      "id": "9",
+      "title": "Test2",
+      "author": "Flabustibule",
+      "datePublication": "2025-1-3",
+      "contenu": "Hell yeah."
+    },
+    {
+      "id": "10",
+      "title": "whgewerh",
+      "author": "hhh",
+      "datePublication": "2025-1-4",
+      "contenu": "erherherherh"
+    },
+    {
+      "id": "11",
+      "title": "4ehyeh",
+      "author": "egr",
+      "datePublication": "2025-1-5",
+      "contenu": "<h1>\n    test\n</h1>"
+    },
+    {
+      "id": "12",
+      "title": "Test1r5",
+      "author": "Flabustibule",
+      "datePublication": "2025-1-5",
+      "contenu": "<h1>\n    Yo\n</h1>\n<p>\n    Ceci est un test.\n</p>"
+    },
+    {
+      "id": "13",
+      "title": "Test1r6",
+      "author": "Flabustibule",
+      "datePublication": "2025-1-5",
+      "contenu": "        <nav id=\"nav\" class=\"container navbar navbar-dark navbar-expand-md\">\r\n            <div id=\"navbar\" class=\"container-fluid\" data-bs-theme=\"dark\">\r\n                <img src=\"../logo_transparent.png\" id=\"logo\" alt=\"logo\" width=\"150px\" height=\"150px\">\r\n                <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarToggleExternalContent\" aria-controls=\"navbarToggleExternalContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n                    <span class=\"navbar-toggler-icon\"></span>\r\n                </button>\r\n                <div class=\"collapse navbar-collapse\" id=\"navbarToggleExternalContent\" data-bs-theme=\"dark\">\r\n                    <div id=\"navButtons\" class=\"row\">\r\n                        <ul id=\"buttons\" class=\"navbar-nav me-auto mb-2 mb-lg-0\">\r\n                            <li class=\"nav-item\">\r\n                                <a class=\"nav-link\" href=\"index.html\">Menu 1</a>\r\n                            </li>\r\n                            <li class=\"nav-item\">\r\n                                <a class=\"nav-link\" href=\"index.html\">Menu 2</a>\r\n                            </li>\r\n                            <li class=\"nav-item\">\r\n                                <a class=\"nav-link\" href=\"index.html\">Menu 3</a>\r\n                            </li>\r\n                            <li class=\"nav-item\">\r\n                                <a class=\"nav-link\" href=\"index.html\">Menu 4</a>\r\n                            </li>\r\n                            <li class=\"nav-item\">\r\n                                <a class=\"nav-link\" href=\"index.html\">\r\n                                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" fill=\"currentColor\" class=\"bi bi-person-circle\" viewBox=\"0 0 16 16\">\r\n                                        <path d=\"M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0\"/>\r\n                                        <path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1\"/>\r\n                                    </svg>\r\n                                </a>\r\n                            </li>\r\n                          </ul>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </nav>"
+    },
+    {
+      "id": "14",
+      "title": "Une vraie page ?",
+      "author": "Flabustibule",
+      "datePublication": "2025-1-5",
+      "contenu": "<p>\n    Hé bah non. C'est toujours un test :/\n</p>"
+    },
+    {
+      "id": "15",
+      "title": "JQuery",
+      "author": "Flabustibule",
+      "datePublication": "2025-1-4",
+      "contenu": "<p>\n    jQuery est une bibliothèque JavaScript libre et multiplateforme créée pour faciliter l'écriture de scripts côté client dans le code HTML des pages web3. La première version est lancée en janvier 2006 par John Resig.\n</p>\n<p>\n    Le but de la bibliothèque étant le parcours et la modification du DOM (y compris le support des sélecteurs CSS 1 à 3 et un support basique de XPath), elle contient de nombreuses fonctionnalités ; notamment des animations, la manipulation des feuilles de style en cascade (accessibilité des classes et attributs), la gestion des évènements, etc. L'utilisation d'Ajax est facilitée et de nombreux plugins sont présents.\n</p>\n<p>\n    Depuis sa création en 2006 et notamment à cause de la complexification croissante des interfaces Web, jQuery a connu un large succès auprès des développeurs Web et son apprentissage est aujourd'hui un des fondamentaux de la formation aux technologies du Web. Il est à l'heure actuelle la bibliothèque front-end la plus utilisée au monde (plus de la moitié des sites Web en ligne intègrent jQuery).\n</p>\n<p>\n    Cependant, son utilisation devient moins pertinente avec l'émergence de nouvelles bibliothèques telles que React (JavaScript) et Vue.js qui la remplacent dans la construction d'Application web monopage, ainsi qu'en raison de l'évolution de la syntaxe JavaScript, beaucoup plus concise depuis l'intégration de la norme ES6.\n</p>"
+    },
+    {
+      "id": "16",
+      "title": "Page trop cool !",
+      "author": "Flabustibule",
+      "datePublication": "2025-1-5",
+      "contenu": "<script>\n    alert(\"yo\")\n</script>"
+    },
+    {
+      "id": "17",
+      "title": "Page trop cool 2 !",
+      "author": "Flabustibule",
+      "datePublication": "2025-01-05",
+      "contenu": "<p>\n    Yipee !\n</p>\n<script>\n    alert(\"test\");\n    console.log(\"yipee\")\n</script>"
+    },
+    {
+      "id": "18",
+      "title": "wegwe",
+      "author": "Raph",
+      "datePublication": "2025-02-01",
+      "contenu": "<h1>Hello</h1>"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "publicationId": "1",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 1"
+    },
+    {
+      "id": "2",
+      "publicationId": "1",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 2"
+    },
+    {
+      "id": "3",
+      "publicationId": "1",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 3"
+    },
+    {
+      "id": "4",
+      "publicationId": "2",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 4"
+    },
+    {
+      "id": "5",
+      "publicationId": "3",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 5"
+    },
+    {
+      "id": "6",
+      "publicationId": "5",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 6"
+    },
+    {
+      "id": "7",
+      "publicationId": "6",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 7"
+    },
+    {
+      "id": "8",
+      "publicationId": "9",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 8"
+    },
+    {
+      "id": "9",
+      "publicationId": "9",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 9"
+    },
+    {
+      "id": "10",
+      "publicationId": "9",
+      "dateComment": "2025-02-14",
+      "contenu": "Contenu du commentaire 10"
+    },
+    {
+      "id": "12",
+      "publicationId": "1",
+      "dateComment": "2025-1-2",
+      "contenu": "gergherh"
+    },
+    {
+      "id": "12",
+      "publicationId": "8",
+      "dateComment": "2025-1-2",
+      "contenu": "weherherh"
+    },
+    {
+      "id": "13",
+      "publicationId": "1",
+      "dateComment": "2025-1-3",
+      "contenu": "Miaow.\nCordialement."
+    },
+    {
+      "id": "14",
+      "publicationId": "1",
+      "dateComment": "2025-1-3",
+      "contenu": "f\nf\nf\nf\n\n\n"
+    },
+    {
+      "id": "15",
+      "publicationId": "5",
+      "dateComment": "2025-1-3",
+      "contenu": "Ceci est un commentaire de test."
+    },
+    {
+      "id": "16",
+      "publicationId": "8",
+      "dateComment": "2025-1-4",
+      "contenu": "dtyuikyukyufkky"
+    },
+    {
+      "id": "17",
+      "publicationId": "8",
+      "dateComment": "2025-1-4",
+      "contenu": "kyukyu"
+    },
+    {
+      "id": "18",
+      "publicationId": "1",
+      "dateComment": "2025-1-5",
+      "contenu": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    {
+      "id": "19",
+      "publicationId": "12",
+      "dateComment": "2025-1-5",
+      "contenu": "Ceci est un test."
+    },
+    {
+      "id": "20",
+      "publicationId": "1",
+      "dateComment": "2025-1-5",
+      "contenu": "Il était un petit navire."
+    },
+    {
+      "id": "21",
+      "publicationId": "13",
+      "dateComment": "2025-1-5",
+      "contenu": "6ok"
+    },
+    {
+      "id": "22",
+      "publicationId": "12",
+      "dateComment": "2025-1-5",
+      "contenu": "67ok67o"
+    },
+    {
+      "id": "23",
+      "publicationId": "15",
+      "dateComment": "2025-1-4",
+      "contenu": "Incroyable cet article, ma foi."
+    },
+    {
+      "id": "24",
+      "publicationId": "16",
+      "dateComment": "2025-1-5",
+      "contenu": "di fydk"
+    }
+  ]
+}
