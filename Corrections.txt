@@ -1,0 +1,2 @@
+Normalement, il ne devrait plus avoir de problème d'id avec les publications.
+J'ai retiré ma balise script avec du code à l'intérieur et j'ai transféré le tout dans createPost.js
