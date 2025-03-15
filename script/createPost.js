@@ -52,3 +52,12 @@ async function createPost(contenu) {
         },
     }, "open");
 }
+
+async function setupAce() {
+    var editor = ace.edit("editor");
+    editor.setTheme("ace/theme/monokai");
+    editor.session.setMode("ace/mode/html");
+    editor.resize();
+}
+
+setupAce();
