@@ -1,4 +1,5 @@
-function CommentList({id}){
+function CommentList() {
+    const id = React.useContext(IdContext);
     const [data, setData] = React.useState([]);
     const [loading, setLoading] = React.useState(true);
     const [error, setError] = React.useState(null);
@@ -21,7 +22,7 @@ function CommentList({id}){
             }
         };
 
-        setData( fetchData());       
+        fetchData();       
     }, []);
 
     if (loading) {
@@ -33,8 +34,8 @@ function CommentList({id}){
     }
 
     return <>
-        <div id="commentDiv" class="container">
-            {data.map(data => <Comment contenu={data.contenu} />)}
+        <div id="commentDiv" className="container">
+            {data.map(data => <Comment key={data.id} contenu={data.contenu} />)}
         </div>
     </>
 }

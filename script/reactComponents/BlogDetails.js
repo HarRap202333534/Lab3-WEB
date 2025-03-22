@@ -1,4 +1,5 @@
-function BlogDetails({id}) {
+function BlogDetails() {
+    const id = React.useContext(IdContext);
     const [data, setData] = React.useState({});
     const [loading, setLoading] = React.useState(true);
     const [error, setError] = React.useState(null);
@@ -21,7 +22,7 @@ function BlogDetails({id}) {
             }
         };
 
-        setData(fetchData());       
+        fetchData();       
     }, []);
 
     if (loading) {
@@ -33,6 +34,6 @@ function BlogDetails({id}) {
     }
 
     return <>
-        <div id='top-body-part' class='container' dangerouslySetInnerHTML={{ __html: '<img src="../logo.png" alt="logo" height="200px" width="100%" /><h1 className="h-blog mb-5 mt-4">' + data.title + '</h1>' + data.contenu }}></div>
+        <div id='top-body-part' className='container' dangerouslySetInnerHTML={{ __html: '<img src="../logo.png" alt="logo" height="200px" width="100%" /><h1 className="h-blog mb-5 mt-4">' + data.title + '</h1>' + data.contenu }}></div>
     </>
 }

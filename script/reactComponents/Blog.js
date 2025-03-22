@@ -1,7 +1,9 @@
 function Blog({id}) {
     return <>
-        <BlogDetails id={id} />
-        <AddComment id={id} />
-        <CommentList id={id} />
+        <IdContext.Provider value={id}>
+            <BlogDetails />
+            <AddComment />
+            <CommentList />
+        </IdContext.Provider>
     </>
 }
