@@ -21,16 +21,8 @@ function BlogList() {
             }
         };
 
-        setData( fetchData());       
+        fetchData();       
     }, []);
-
-    if (loading) {
-        return <h1>Chargement...</h1>;
-    }
-
-    if (error) {
-        return <h1>{error}</h1>;
-    }
 
     return <>
         <div className="container mb-4 mt-4">
@@ -56,7 +48,9 @@ function BlogList() {
         </div>
         <div className="container">
             <div id="publications" className="row row-cols-1 row-cols-md-1 row-cols-lg-3 g-4">
+                {loading && <h1>Chargement...</h1>}
                 {data.map(data => <BlogCard key={data.id} component={data} />)}
+                {error && <h1>{error}</h1>}
             </div>
         </div>
     </>

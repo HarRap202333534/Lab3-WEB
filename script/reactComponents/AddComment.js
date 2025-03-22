@@ -1,6 +1,5 @@
 function AddComment() {
     const id = React.useContext(IdContext);
-    const [loading, setLoading] = React.useState(true);
     const [error, setError] = React.useState(null);
     const [data, setData] = React.useState([]);
     const [comment, setComment] = React.useState('');
@@ -44,8 +43,6 @@ function AddComment() {
                 setData(result);
             } catch(error) {
                 setError(error.message);
-            } finally {
-                setLoading(false);
             }
         };
 

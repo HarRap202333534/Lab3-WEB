@@ -35,6 +35,8 @@ function CommentList() {
 
     return <>
         <div id="commentDiv" className="container">
+            {loading && <h1>Chargement...</h1>}
+            {error && <h1>{error}</h1>}
             {data.map(data => <Comment key={data.id} contenu={data.contenu} />)}
         </div>
     </>
